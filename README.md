@@ -83,11 +83,9 @@ Welcome to my semester 4 university project! This project represents my individu
 <img src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/ohhmeter.png">
 
 ### Ammeter
-
 <img src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/ammeter.png">
 
 ### Continuity Checker
-
 <img src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/c%20checker.png">
 
 
