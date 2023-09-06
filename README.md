@@ -1,6 +1,6 @@
 # Semester 4 University Project - My Individual Work
 
-##Introduction
+## Introduction
 
 
 Welcome to my semester 4 university project! This project represents my individual work, and it comes with several important features:
@@ -108,4 +108,17 @@ For more information, feel free to explore all the files and data in my reposito
 <img width="850" src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/Schematic%203.png">
 </p>
 
+## PCB Designs
+
+<p align="center">
+<img src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/pcb2.png">
+</p>
+
+<p align="center">
+<img src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/pcb.png">
+</p>
+
+<p align="center">
+<img height="400" src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/3D%20View.png">
+</p>
 
