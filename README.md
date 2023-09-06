@@ -123,5 +123,19 @@ For more information, feel free to explore all the files and data in my reposito
 </p>
 
 <p align="center">
-<img height="400" src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/IMG-2594.jpg">
+<img height="450" src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/IMG-2594.jpg">
 </p>
+
+## Enclosure Designs
+
+<p align="center">
+<img width="500" src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/Assembly%202.png">
+</p>
+
+<p align="center">
+<img height="400" src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/Assembly%203.png">
+</p>
+
+
+
+
