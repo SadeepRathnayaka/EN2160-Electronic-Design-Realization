@@ -74,24 +74,22 @@ For more information, feel free to explore all the files and data in my reposito
 ## Circuit Diagrams
 
 
-
-  <img src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/voltmeter.png">
-
-
+### Voltemeter
+<img src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/voltmeter.png">
 
 
-
-  <img src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/ohhmeter.png">
+### Ohmmeter
+<img src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/ohhmeter.png">
 
 
 
 ### Ammeter
 
-  <img src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/ammeter.png">
+<img src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/ammeter.png">
 
 
 
 ### Continuity Checker
 
-  <img src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/c%20checker.png">
+<img src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/c%20checker.png">
 
