@@ -1,6 +1,27 @@
 # Semester 4 University Project - My Individual Work
 
-**Introduction**
+##Introduction**## What You Can Find Here
+
+- Component List
+- Block Diagram
+- Circuit Diagrams
+- Schematics Designs
+- PCB Designs
+- Enclosure Design
+
+For more information, feel free to explore all the files and data in my repository. I've included comprehensive documentation, source code, and additional resources for a deeper dive into this project. Your feedback and contributions are highly appreciated.
+
+### Component List
+
+- Atmega328p Microcontroller
+- 3P4T Rotary Switches
+- 16*2 LCD Display
+- Single Pole Double Throw Switch
+- On-Off Switch
+- 1200mAh LiPo Battery
+- TP4056 Charging Module
+- MT3608 Boost Converter
+
 
 Welcome to my semester 4 university project! This project represents my individual work, and it comes with several important features:
 
@@ -40,3 +61,26 @@ Welcome to my semester 4 university project! This project represents my individu
 - A two-way switch allows easy mode switching between multimeter and power supply.
 - Weight: 500g
 - Dimensions: 13cm × 9cm × 2.5cm
+
+  ## What You Can Find Here
+
+- Component List
+- Block Diagram
+- Circuit Diagrams
+- Schematics Designs
+- PCB Designs
+- Enclosure Design
+
+For more information, feel free to explore all the files and data in my repository. I've included comprehensive documentation, source code, and additional resources for a deeper dive into this project. Your feedback and contributions are highly appreciated.
+
+### Component List
+
+- Atmega328p Microcontroller
+- 3P4T Rotary Switches
+- 16*2 LCD Display
+- Single Pole Double Throw Switch
+- On-Off Switch
+- 1200mAh LiPo Battery
+- TP4056 Charging Module
+- MT3608 Boost Converter
+
