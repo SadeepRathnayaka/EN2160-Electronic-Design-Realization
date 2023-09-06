@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=D12 Pin=R8-2
+Added Pin To Net: NetName=D13 Pin=R9-1
+Added Pin To Net: NetName=D12 Pin=SW1-3
+Added Pin To Net: NetName=D13 Pin=SW1-4
+Added Member To Class: ClassName=Schematic Member=Component SW2 A30403RNZQ
+Added Room: Name=Schematic

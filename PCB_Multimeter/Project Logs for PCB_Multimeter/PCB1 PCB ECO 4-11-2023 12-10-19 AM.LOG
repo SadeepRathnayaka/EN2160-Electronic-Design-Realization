@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=VCC Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=A5 Pin=J1-3
+Added Pin To Net: NetName=A4 Pin=J1-4
+Added Pin To Net: NetName=ROT10 Pin=J1-5
+Added Pin To Net: NetName=ROT6 Pin=J1-6
+Add Pin To Net: Unknown Pin: Pin J3-DTR
+Add Pin To Net: Unknown Pin: Pin J3-GND
+Add Pin To Net: Unknown Pin: Pin J3-RX
+Add Pin To Net: Unknown Pin: Pin J3-TX
+Add Pin To Net: Unknown Pin: Pin J3-VCC
+Add Pin To Net: Unknown Pin: Pin J4-GND
+Add Pin To Net: Unknown Pin: Pin J4-SCL
+Add Pin To Net: Unknown Pin: Pin J4-SDA
+Add Pin To Net: Unknown Pin: Pin J4-VCC
+Added Pin To Net: NetName=D13 Pin=LS1-2

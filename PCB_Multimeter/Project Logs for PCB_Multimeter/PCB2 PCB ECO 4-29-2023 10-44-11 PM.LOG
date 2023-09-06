@@ -1,0 +1,72 @@
+Removed Pin From Net: NetName=D13 Pin=BUZZER-1
+Removed Pin From Net: NetName=COLLECTOR Pin=BUZZER-2
+Removed Pin From Net: NetName=GND Pin=LCD HEADER-1
+Removed Pin From Net: NetName=VCC Pin=LCD HEADER-2
+Removed Pin From Net: NetName=A4 Pin=LCD HEADER-3
+Removed Pin From Net: NetName=A5 Pin=LCD HEADER-4
+Removed Member From Class: ClassName=Schematic2 Member=BUZZER
+Removed Member From Class: ClassName=Schematic2 Member=LCD HEADER
+Change Component Designator: OldDesignator=     NewDesignator=R20
+Change Component Designator: OldDesignator=1KO NewDesignator=R5
+Change Component Designator: OldDesignator=1MO NewDesignator=R1
+Change Component Designator: OldDesignator=1MO NewDesignator=R2
+Change Component Designator: OldDesignator=1MO NewDesignator=R3
+Change Component Designator: OldDesignator=1MO NewDesignator=R4
+Change Component Designator: OldDesignator=1MO NewDesignator=R7
+Change Component Designator: OldDesignator=1MO NewDesignator=R8
+Change Component Designator: OldDesignator=1MO NewDesignator=R9
+Change Component Designator: OldDesignator=1MO NewDesignator=R10
+Change Component Designator: OldDesignator=1MO NewDesignator=R11
+Change Component Designator: OldDesignator=1N4001 NewDesignator=D1
+Change Component Designator: OldDesignator=10KO NewDesignator=R6
+Change Component Designator: OldDesignator=10KO NewDesignator=R13
+Change Component Designator: OldDesignator=10KO NewDesignator=R14
+Change Component Designator: OldDesignator=16MHz NewDesignator=Y1
+Change Component Designator: OldDesignator=20KO NewDesignator=R15
+Change Component Designator: OldDesignator=20KO NewDesignator=R17
+Change Component Designator: OldDesignator=22pF NewDesignator=C1
+Change Component Designator: OldDesignator=22pF NewDesignator=C2
+Change Component Designator: OldDesignator=50KO NewDesignator=R12
+Change Component Designator: OldDesignator=100KO NewDesignator=R16
+Change Component Designator: OldDesignator=100KO NewDesignator=R18
+Change Component Designator: OldDesignator=100nF NewDesignator=C3
+Change Component Designator: OldDesignator=220O NewDesignator=R19
+Change Component Designator: OldDesignator=ATMEGA328P NewDesignator=U1
+Change Component Designator: OldDesignator=BC547 NewDesignator=Q1
+Change Component Designator: OldDesignator=FTDI HEADER NewDesignator=J3
+Change Component Designator: OldDesignator=INA219 NewDesignator=J1
+Change Component Designator: OldDesignator=MODE NewDesignator=SW1
+Change Component Designator: OldDesignator=POWER NewDesignator=J5
+Change Component Designator: OldDesignator=PROBES NewDesignator=J2
+Change Component Designator: OldDesignator=SCALE NewDesignator=SW2
+Added Component: Designator=P1(MY_FE02W)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Header 2-AS"; VariantName = "[No Variations]"
+Added Component: Designator=P2(MY_FE04W)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Header 4-AS"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=D13 Pin=P1-1
+Added Pin To Net: NetName=COLLECTOR Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=VCC Pin=P2-2
+Added Pin To Net: NetName=A4 Pin=P2-3
+Added Pin To Net: NetName=A5 Pin=P2-4
+Added Member To Class: ClassName=Schematic2 Member=Component C1 RDE5C1H220J0K1H03B
+Added Member To Class: ClassName=Schematic2 Member=Component P1 Header 2
+Added Member To Class: ClassName=Schematic2 Member=Component P2 Header 4
+Added Member To Class: ClassName=Schematic2 Member=Component R1 G001R1000FE1280
+Added Member To Class: ClassName=Schematic2 Member=Component R2 G001R1000FE1280
+Added Member To Class: ClassName=Schematic2 Member=Component R3 G001R1000FE1280
+Added Member To Class: ClassName=Schematic2 Member=Component R4 G001R1000FE1280
+Added Member To Class: ClassName=Schematic2 Member=Component R6 3296W-1-103RLF
+Added Member To Class: ClassName=Schematic2 Member=Component R7 G001R1000FE1280
+Added Member To Class: ClassName=Schematic2 Member=Component R8 G001R1000FE1280
+Added Member To Class: ClassName=Schematic2 Member=Component R9 G001R1000FE1280
+Added Member To Class: ClassName=Schematic2 Member=Component R10 G001R1000FE1280
+Added Member To Class: ClassName=Schematic2 Member=Component R11 G001R1000FE1280
+Added Member To Class: ClassName=Schematic2 Member=Component R13 G001R1000FE1280
+Added Member To Class: ClassName=Schematic2 Member=Component R15 G001R1000FE1280
+Added Member To Class: ClassName=Schematic2 Member=Component R17 3296W-1-103RLF
+Added Member To Class: ClassName=Schematic2 Member=Component R18 3296W-1-103RLF
+Added Member To Class: ClassName=Schematic2 Member=Component R19 G001R1000FE1280
+Added Member To Class: ClassName=Schematic2 Member=Component R20 G001R1000FE1280
+Added Member To Class: ClassName=Schematic2 Member=Component U1 ATmega328P-PN
+Added Room: Name=Schematic2

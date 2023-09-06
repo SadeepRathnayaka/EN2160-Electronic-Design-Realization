@@ -1,0 +1,55 @@
+Change Component Footprint: Designator=R5 Old Footprint=FP-3296W-MFG New Footprint=3362P_1
+Change Component Footprint: Designator=R6 Old Footprint=FP-3296W-MFG New Footprint=3362P_1
+Change Component Footprint: Designator=R12 Old Footprint=FP-3296W-MFG New Footprint=3362P_1
+Change Component Footprint: Designator=R17 Old Footprint=FP-3296W-MFG New Footprint=3362P_1
+Change Component Footprint: Designator=R18 Old Footprint=FP-3296W-MFG New Footprint=3362P_1
+Change Component Comment : Designator=R5 Old Comment=3296W-1-103RLF New Comment=3362P-1-203LF
+Change Component Comment : Designator=R6 Old Comment=3296W-1-103RLF New Comment=3362P-1-203LF
+Change Component Comment : Designator=R12 Old Comment=3296W-1-103RLF New Comment=3362P-1-203LF
+Change Component Comment : Designator=R17 Old Comment=3296W-1-103RLF New Comment=3362P-1-203LF
+Change Component Comment : Designator=R18 Old Comment=3296W-1-103RLF New Comment=3362P-1-203LF
+Change Managed Component Library Link : Designator=R5 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=AA56907B-EF60-4931-8D60-436682F8F211 New ItemGUID= Old RevisionGUID=187280FA-41A7-4C31-89C1-AC5F6A601120 New RevisionGUID=
+Change Managed Component Library Link : Designator=R6 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=AA56907B-EF60-4931-8D60-436682F8F211 New ItemGUID= Old RevisionGUID=187280FA-41A7-4C31-89C1-AC5F6A601120 New RevisionGUID=
+Change Managed Component Library Link : Designator=R12 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=AA56907B-EF60-4931-8D60-436682F8F211 New ItemGUID= Old RevisionGUID=187280FA-41A7-4C31-89C1-AC5F6A601120 New RevisionGUID=
+Change Managed Component Library Link : Designator=R17 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=AA56907B-EF60-4931-8D60-436682F8F211 New ItemGUID= Old RevisionGUID=187280FA-41A7-4C31-89C1-AC5F6A601120 New RevisionGUID=
+Change Managed Component Library Link : Designator=R18 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=AA56907B-EF60-4931-8D60-436682F8F211 New ItemGUID= Old RevisionGUID=187280FA-41A7-4C31-89C1-AC5F6A601120 New RevisionGUID=
+Change component parameters: Designator = "R5" ("R5"); Footprint = "FP-3296W-MFG"; UniqueID = "\VYFLYKJJ" ("\VYFLYKJJ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "3362P-1-203LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/3362p-1-203lf/bourns?region=europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/docs/Product-Datasheets/3362.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "3362P-1-203LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "652-3362P-1-203LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/3362P-1-203LF?qs=GslmPyR0hhF1JBua3W6Xbw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "FP-3296W-MFG"; UniqueID = "\BHBFLZBM" ("\BHBFLZBM")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "3362P-1-203LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/3362p-1-203lf/bourns?region=europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/docs/Product-Datasheets/3362.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "3362P-1-203LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "652-3362P-1-203LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/3362P-1-203LF?qs=GslmPyR0hhF1JBua3W6Xbw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "FP-3296W-MFG"; UniqueID = "\CQOXYEZA" ("\CQOXYEZA")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "3362P-1-203LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/3362p-1-203lf/bourns?region=europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/docs/Product-Datasheets/3362.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "3362P-1-203LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "652-3362P-1-203LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/3362P-1-203LF?qs=GslmPyR0hhF1JBua3W6Xbw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17" ("R17"); Footprint = "FP-3296W-MFG"; UniqueID = "\ULTLSHRP" ("\ULTLSHRP")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "3362P-1-203LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/3362p-1-203lf/bourns?region=europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/docs/Product-Datasheets/3362.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "3362P-1-203LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "652-3362P-1-203LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/3362P-1-203LF?qs=GslmPyR0hhF1JBua3W6Xbw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18" ("R18"); Footprint = "FP-3296W-MFG"; UniqueID = "\RQQJSLDG" ("\RQQJSLDG")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "3362P-1-203LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/3362p-1-203lf/bourns?region=europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/docs/Product-Datasheets/3362.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "3362P-1-203LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "652-3362P-1-203LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/3362P-1-203LF?qs=GslmPyR0hhF1JBua3W6Xbw%3D%3D"; VariantName = "[No Variations]"

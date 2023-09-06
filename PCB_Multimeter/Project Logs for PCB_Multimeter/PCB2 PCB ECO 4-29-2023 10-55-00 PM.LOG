@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=VCC Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=A5 Pin=J1-3
+Removed Pin From Net: NetName=A4 Pin=J1-4
+Removed Pin From Net: NetName=ROT10 Pin=J1-5
+Removed Pin From Net: NetName=ROT6 Pin=J1-6
+Removed Pin From Net: NetName=NetC3_1 Pin=J3-1
+Removed Pin From Net: NetName=TX Pin=J3-2
+Removed Pin From Net: NetName=RX Pin=J3-3
+Removed Pin From Net: NetName=VCC Pin=J3-4
+Removed Pin From Net: NetName=GND Pin=J3-6
+Removed Member From Class: ClassName=Schematic2 Member=J1
+Removed Member From Class: ClassName=Schematic2 Member=J3
+Added Component: Designator=P3(MY_FE06W)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Header 6-AS"; VariantName = "[No Variations]"
+Added Component: Designator=P4(MY_FE06W)
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Header 6-AS"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=A5 Pin=P3-3
+Added Pin To Net: NetName=A4 Pin=P3-4
+Added Pin To Net: NetName=ROT10 Pin=P3-5
+Added Pin To Net: NetName=ROT6 Pin=P3-6
+Added Pin To Net: NetName=NetC3_1 Pin=P4-1
+Added Pin To Net: NetName=TX Pin=P4-2
+Added Pin To Net: NetName=RX Pin=P4-3
+Added Pin To Net: NetName=VCC Pin=P4-4
+Added Pin To Net: NetName=GND Pin=P4-6
+Added Member To Class: ClassName=Schematic2 Member=Component C2 RDE5C1H220J0K1H03B
+Added Member To Class: ClassName=Schematic2 Member=Component P3 Header 6
+Added Member To Class: ClassName=Schematic2 Member=Component P4 Header 6
+Added Member To Class: ClassName=Schematic2 Member=Component R14 G001R1000FE1280
+Added Member To Class: ClassName=Schematic2 Member=Component R16 G001R1000FE1280
