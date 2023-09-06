@@ -87,15 +87,15 @@ Welcome to my semester 4 university project! This project represents my individu
 
 ## Schematic Designs 
 <p align="center">
-<img width="850" src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/Schematic%201.png">
+<img width="750" src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/Schematic%201.png">
 </p>
 
 <p align="center">
-<img width="850" src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/Schematic%202.png">
+<img width="750" src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/Schematic%202.png">
 </p>
 
 <p align="center">
-<img width="850" src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/Schematic%203.png">
+<img width="750" src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/Schematic%203.png">
 </p>
 
 ## PCB Designs
