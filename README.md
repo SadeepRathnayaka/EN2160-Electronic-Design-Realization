@@ -75,8 +75,9 @@ For more information, feel free to explore all the files and data in my reposito
 
 
 ### Voltemeter
+<p align="center">
 <img src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/voltmeter.png">
-
+</p>
 
 ### Ohmmeter
 <img src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/ohhmeter.png">
@@ -90,6 +91,6 @@ For more information, feel free to explore all the files and data in my reposito
 
 
 ### Continuity Checker
-
+<p align="center">
 <img src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/c%20checker.png">
-
+</p>
