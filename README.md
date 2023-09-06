@@ -1,6 +1,6 @@
 # Semester 4 University Project - My Individual Work
 
-##Introduction
+## Introduction
 
 
 Welcome to my semester 4 university project! This project represents my individual work, and it comes with several important features:
@@ -51,7 +51,7 @@ Welcome to my semester 4 university project! This project represents my individu
 - PCB Designs
 - Enclosure Design
 
-For more information, feel free to explore all the files and data in my repository. I've included comprehensive documentation, source code, and additional resources for a deeper dive into this project. Your feedback and contributions are highly appreciated.
+*For more information, feel free to explore all the files and data in my repository. I've included comprehensive documentation, source code, and additional resources for a deeper dive into this project. Your feedback and contributions are highly appreciated.*
 
 ## Component List
 
@@ -82,30 +82,50 @@ For more information, feel free to explore all the files and data in my reposito
 ### Ohmmeter
 <img src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/ohhmeter.png">
 
-
-
 ### Ammeter
-
 <img src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/ammeter.png">
-
-
-
-### Continuity Checker
-
-<img src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/c%20checker.png">
-
 
 ## Schematic Designs 
 <p align="center">
-<img width="850" src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/Schematic%201.png">
+<img width="750" src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/Schematic%201.png">
 </p>
 
 <p align="center">
-<img width="850" src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/Schematic%202.png">
+<img width="750" src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/Schematic%202.png">
 </p>
 
 <p align="center">
-<img width="850" src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/Schematic%203.png">
+<img width="750" src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/Schematic%203.png">
 </p>
+
+## PCB Designs
+
+<p align="center">
+<img src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/pcb2.png">
+</p>
+
+<p align="center">
+<img src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/pcb.png">
+</p>
+
+<p align="center">
+<img height="400" src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/3D%20View.png">
+</p>
+
+<p align="center">
+<img height="450" src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/IMG-2594.jpg">
+</p>
+
+## Enclosure Designs
+
+<p align="center">
+<img width="500" src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/Assembly%202.png">
+</p>
+
+<p align="center">
+<img height="400" src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/Assembly%203.png">
+</p>
+
+
 
 
