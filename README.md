@@ -122,3 +122,6 @@ For more information, feel free to explore all the files and data in my reposito
 <img height="400" src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/3D%20View.png">
 </p>
 
+<p align="center">
+<img height="400" src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/IMG-2594.jpg">
+</p>
