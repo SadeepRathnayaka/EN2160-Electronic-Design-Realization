@@ -1,8 +1,11 @@
-Semester 4 University Project - My Individual Work
-Welcome to my semester 4 university project! This project is my solo effort, and I've designed it with some important features:
+# Semester 4 University Project - My Individual Work
 
-On/Off Switch: There's a main switch that turns the product on and off.
-Multimeter and Power Supply: Another switch lets you switch between two modes: multimeter and 5V power supply.
-Rotary Controls: Two rotary switches help you select modes and adjust the ohmmeter's scale.
-LED Display: You can see all the important readings on an LED display.
-Rechargeable Battery: What's really cool is that it has a rechargeable battery, so you don't have to keep replacing batteries. It even has a built-in charger.
+**Introduction**
+
+Welcome to my semester 4 university project! This project represents my individual work, and it comes with several important features:
+
+- **On/Off Switch:** There's a main switch that turns the product on and off.
+- **Multimeter and Power Supply Modes:** Another switch allows you to switch between two modes: multimeter and 5V power supply.
+- **Rotary Controls:** You'll find two rotary switches designed for mode selection and adjusting the ohmmeter's scale.
+- **LED Display:** All the important readings are conveniently displayed on an LED screen.
+- **Rechargeable Battery:** What makes this product special is its built-in rechargeable battery system. Say goodbye to constant battery replacements; this product includes an integrated charger mechanism.
