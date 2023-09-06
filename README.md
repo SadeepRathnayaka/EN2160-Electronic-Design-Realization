@@ -94,3 +94,18 @@ For more information, feel free to explore all the files and data in my reposito
 
 <img src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/c%20checker.png">
 
+
+## Schematic Designs 
+<p align="center">
+<img src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/Schematic%201.png">
+</p>
+
+<p align="center">
+<img src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/Schematic%202.png">
+</p>
+
+<p align="center">
+<img src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/Schematic%203.png">
+</p>
+
+
