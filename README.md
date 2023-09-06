@@ -64,3 +64,8 @@ For more information, feel free to explore all the files and data in my reposito
 - TP4056 Charging Module
 - MT3608 Boost Converter
 
+## Block Diagram
+
+<p align="center">
+  <img src="https://github.com/SadeepRathnayaka/EN2160-Electronic-Design-Realization/blob/main/Images/block%20diagram.png">
+</p>
