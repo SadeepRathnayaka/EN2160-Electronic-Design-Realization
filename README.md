@@ -51,7 +51,7 @@ Welcome to my semester 4 university project! This project represents my individu
 - PCB Designs
 - Enclosure Design
 
-For more information, feel free to explore all the files and data in my repository. I've included comprehensive documentation, source code, and additional resources for a deeper dive into this project. Your feedback and contributions are highly appreciated.
+*For more information, feel free to explore all the files and data in my repository. I've included comprehensive documentation, source code, and additional resources for a deeper dive into this project. Your feedback and contributions are highly appreciated.*
 
 ## Component List
 
